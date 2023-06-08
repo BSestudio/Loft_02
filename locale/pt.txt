@@ -15,6 +15,7 @@ panorama_954CBD5D_9CA4_0B2B_41C0_E2645E0AB1D3.label = Loft 02 - B House
 panorama_954D010F_9CA4_7B27_41D2_8232EB540991.label = Loft 02 - B House
 panorama_954D2746_9CA4_0719_4194_E734E7280177.label = Loft 02 - B House
 panorama_95518387_9CA4_3F26_41E3_50C1908CAA6A.label = Loft 02 - B House
+panorama_97BA2164_9D3A_45AC_4183_210FE8236D92.label = Loft 02 (3 of 11)-Edit
 
 ## Action
 
