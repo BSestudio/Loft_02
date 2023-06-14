@@ -37,8 +37,8 @@
   }
  ],
  "name": "Loft 02 - Bhouse 561 - Sorocaba",
- "start_url": "index.htm",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
  "background_color": "#FFFFFF"
 }
