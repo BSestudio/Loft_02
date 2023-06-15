@@ -1,43 +1,43 @@
 {
- "background_color": "#FFFFFF",
  "name": "Loft 02 - Bhouse 561 - Sorocaba",
+ "start_url": "index.htm",
  "theme_color": "#FFFFFF",
  "display": "fullscreen",
- "start_url": "index.htm",
+ "background_color": "#FFFFFF",
  "icons": [
   {
-   "sizes": "150x150",
    "type": "image/png",
+   "sizes": "150x150",
    "src": "misc/icon150.png"
   },
   {
-   "sizes": "16x16",
    "type": "image/png",
+   "sizes": "16x16",
    "src": "misc/icon16.png"
   },
   {
-   "sizes": "180x180",
    "type": "image/png",
+   "sizes": "180x180",
    "src": "misc/icon180.png"
   },
   {
-   "sizes": "192x192",
    "type": "image/png",
+   "sizes": "192x192",
    "src": "misc/icon192.png"
   },
   {
-   "sizes": "32x32",
    "type": "image/png",
+   "sizes": "32x32",
    "src": "misc/icon32.png"
   },
   {
-   "sizes": "512x512",
    "type": "image/png",
+   "sizes": "512x512",
    "src": "misc/icon512.png"
   },
   {
-   "sizes": "64x64",
    "type": "image/png",
+   "sizes": "64x64",
    "src": "misc/icon64.png"
   }
  ]
