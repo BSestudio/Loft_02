@@ -1,4 +1,7 @@
 {
+ "start_url": "index.htm",
+ "background_color": "#FFFFFF",
+ "name": "Loft 02 - Bhouse 561 - Sorocaba",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "name": "Loft 02 - Bhouse 561 - Sorocaba",
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "display": "fullscreen"
 }

@@ -18,8 +18,8 @@ Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD.label = LOCALIZAÇÃO
 Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD_mobile.label = LOCALIZAÇÃO
 Button_1EBF3282_0C0A_1D6D_4190_52FC7F8C00A5.label = FOTOS
 Button_1EBF3282_0C0A_1D6D_4190_52FC7F8C00A5_mobile.label = FOTOS
-Button_B599FFFA_BA10_EB3E_41E1_18AC691C2F0B.label = FAÇA SUA RESERVA
-Button_B599FFFA_BA10_EB3E_41E1_18AC691C2F0B_mobile.label = FAÇA SUA RESERVA
+Button_B599FFFA_BA10_EB3E_41E1_18AC691C2F0B.label = RESERVAS
+Button_B599FFFA_BA10_EB3E_41E1_18AC691C2F0B_mobile.label = RESERVAS
 
 ### Multiline Text
 HTMLText_04FFCC2C_1216_7593_41A3_D345BDE131A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:9.180327868852466vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.18vh;font-family:'Otama.ep';"><B>Chacara</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:9.180327868852466vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:9.18vh;font-family:'Otama.ep';"><B>Bhouse 561</B></SPAN></SPAN></DIV></div>
